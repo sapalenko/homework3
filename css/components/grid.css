@@ -1,4 +1,6 @@
 .grid {
 	display: inline-flex;
 	width: 170px;
+	margin-bottom: 50px;
+
 }
