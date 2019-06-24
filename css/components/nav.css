@@ -1,0 +1,15 @@
+.nav {
+	color: #6491c6;
+	margin-bottom: 22px;
+	margin-top: 22px;
+	font-size: 18px;
+}
+
+.nav .nav-item {
+	margin-right: 20px;
+}
+
+.nav .nav-item:hover {
+	text-decoration: underline;
+	color: #be3f27;
+}

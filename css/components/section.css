@@ -1,0 +1,18 @@
+.section-title-1 {
+	color: #264b77;
+	background-color: #c3d4e9;
+	padding: 14px 0 14px 10px;
+}
+
+.section-title-2 {
+	color: #264b77;
+	background-color: #c3d4e9;
+	padding: 14px 0 14px 10px;
+	margin-bottom: 36px;
+}
+
+.section-1 .section-desc {
+	color: #471b00;
+	font-size: 18px;
+	margin-bottom: 20px;
+}
