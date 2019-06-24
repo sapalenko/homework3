@@ -1,6 +1,13 @@
 .grid {
-	display: inline-flex;
-	width: 170px;
+	font-size: 0;
 	margin-bottom: 50px;
+}
 
+.grid > * {
+	display: inline-block;
+	font-size: 1rem;
+}
+
+.width-1-4 {
+	width: 25%;
 }
