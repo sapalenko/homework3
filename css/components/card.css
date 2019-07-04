@@ -1,7 +1,7 @@
 .card img {
 	margin-bottom: 20px;
-	width: 170px;
 	height: 113px;
+	display: block;
 }
 
 figure {
